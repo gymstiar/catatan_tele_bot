@@ -163,7 +163,7 @@ Simpan → nanti dimasukkan ke `.env`
 ## 4.1 Clone Repository
 
 ```bash
-git clone https://github.com/username/catatan_tele_bot.git
+git clone https://github.com/gymstiar/catatan_tele_bot.git
 cd catatan_tele_bot
 ```
 
@@ -345,4 +345,5 @@ Bot ini sekarang siap digunakan untuk:
 * membuat laporan rapi (grafik + PDF)
 
 ---
+
 
