@@ -1,0 +1,8 @@
+python-telegram-bot>=20.0
+matplotlib>=3.0
+reportlab>=4.0
+requests>=2.0
+numpy>=1.0
+python-dotenv>=1.0
+httpx>=0.24.0
+python-telegram-bot[job-queue]
